@@ -3,14 +3,14 @@ import Layout from '../components/layout/Layout'
 
 
 
-function Nosotros() {
+function Login() {
     return (
         <div>
             <Layout>
-                <h1>Nosotros</h1>
+                <h1>Login</h1>
             </Layout>
         </div>
     )
 }
 
-export default Nosotros
+export default Login
